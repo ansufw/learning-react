@@ -21,3 +21,4 @@
    ```
 6. create a new file called `src/index.js` in the project directory
 7. create an html file `public/index.html` with `root` class div
+8. the rest follow tutorial from https://github.com/ansufw/react-course-v3/tree/main/01-fundamentals
